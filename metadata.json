@@ -1,0 +1,5 @@
+{
+  "name": "OmniRead Platform",
+  "description": "A production-grade, dual-mode reading platform for Manga and Novels with unified progress tracking and isolated reading experiences.",
+  "requestFramePermissions": []
+}
